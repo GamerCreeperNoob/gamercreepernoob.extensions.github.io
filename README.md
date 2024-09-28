@@ -1,1 +1,2 @@
-Readme is work in progress
+# HOW TO ADD EXTENSION
+* commit file!
